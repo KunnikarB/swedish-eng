@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="1536" height="1024" alt="learn-swedish-app" src="https://github.com/user-attachments/assets/c88269e6-417f-4d36-83d7-92248d29bc44" />
 
-## Getting Started
+Swedish-Eng is a simple vocabulary learning app designed to help users practice and memorize Swedish and English words using flashcards.
 
-First, run the development server:
+<img width="1198" height="909" alt="Screenshot 2026-06-23 at 10 14 04" src="https://github.com/user-attachments/assets/1e9d93ce-b504-4fb2-a8b3-f591909cea02" />
+<img width="1232" height="909" alt="Screenshot 2026-06-23 at 10 04 11" src="https://github.com/user-attachments/assets/a081535d-649c-4495-b5b7-9628b3567ccc" />
+<img width="1254" height="686" alt="Screenshot 2026-06-23 at 10 03 13" src="https://github.com/user-attachments/assets/450e3303-2bcc-4a02-800f-d2e369c19c43" />
 
-```bash
+
+
+
+## 🚀 Features
+- 📚 Flashcard-based vocabulary learning
+- 🔍 Filter/search words easily
+- ⚡ Fast and responsive UI
+- 🧠 Helps improve Swedish ↔ English vocabulary retention
+
+## 🛠️ Tech Stack
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+
+
+## ⚙️ Getting Started
+- Clone the repository
+git clone https://github.com/your-username/swedish-eng.git
+cd swedish-eng
+- Install dependencies
+npm install
+- Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Open: http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+  
+## 🏗️ Build for Production
+- npm run build
+- npm start
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🤝 Contributing
 
-## Learn More
+Contributions are welcome!
 
-To learn more about Next.js, take a look at the following resources:
+- Fork the repo
+- Create a new branch
+- Make your changes
+- Submit a pull request
+  
+## 👤 Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+KunnikarB
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📄 License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.

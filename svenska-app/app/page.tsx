@@ -4,8 +4,8 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <div className="text-center space-y-6">
-      <h1 className="text-5xl font-bold ">Learn Swedish 🇸🇪</h1>
-      <Image className="mx-auto" src="/learn-swedish-app.png" alt="Swedish intro app" width={500} height={300} />
+      <h1 className="text-5xl font-bold ">Swedish 🇸🇪 ↔ English 🇬🇧</h1>
+      <Image className="mx-auto" src="/learn-with-kae.png" alt="Swedish intro app" width={800} height={500} />
       
 
       <p className="text-lg text-gray-600">
